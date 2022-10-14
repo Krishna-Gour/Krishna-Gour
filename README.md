@@ -6,10 +6,10 @@
 Welcome to my profile:
 
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source porojects
 - 💬 Ask me anything about tech
-- 📫 How to reach me: Instagram -> @er_krishnagour
+- 📫 How to reach me: Website -> https://krishna-gour.github.io/er.krishnagour/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching sci-fi content
 
